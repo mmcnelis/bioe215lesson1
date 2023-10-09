@@ -1,0 +1,3 @@
+Project Workflows - setwd() can cause problems because it will not make file paths work for anyone but the original author and even then in a couple years not for them either, making the project not portable. To recreate or expand plot, the next user has to manually edit where the project will fall in their own directory. - When you call rm(list=ls()), it deletes user-created objects from the global workspace.
+- 
+- Session>Restart R or the Mac shortcut that is Command+Shift+F10
