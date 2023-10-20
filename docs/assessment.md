@@ -7,3 +7,4 @@ Project Workflows - setwd() can cause problems because it will not make file pat
 Bryan(2018)Imagine you're working with a few collaborators on an analysis. Come up with two examples of Issues you might open. 
 
 How would using Issues differ from communicating over email?- What are three ways GitHub features can promote open science practices?- can save time on creating novel processes - facilitates collaboration and project continuity between researchers as well as asynchronous code editing - makes research more reproducible and is easier to archive and search work
+
